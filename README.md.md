@@ -1,0 +1,28 @@
+---
+
+
+---
+
+<h1 id="🚀-smartcampus">🚀 SmartCampus</h1>
+<p>Ứng dụng di động <strong>SmartCampus</strong> giúp sinh viên PTIT tra cứu lịch học, phòng trống và nhận thông báo mới nhất từ nhà trường một cách <em>nhanh chóng</em> và <em>tiện lợi</em>.</p>
+<ul>
+<li>Các tính năng đã hoàn thành:
+<ul>
+<li>Tra cứu lịch học theo mã sinh viên (hỗ trợ hiển thị thời khóa biểu chi tiết).</li>
+</ul>
+</li>
+<li>Xem danh sách phòng trống theo tòa nhà thực tế.</li>
+</ul>
+<p><a href="https://clblaptrinh.ptit.edu.vn">Trang chủ CLB Lập trình PTIT</a></p>
+<p><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Logo_PTIT_University.png/1280px-Logo_PTIT_University.png?utm_source=vi.wikipedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail" alt="Logo SmartCampus"></p>
+<blockquote>
+<p>⚠️ <strong>Cảnh báo:</strong> Dự án hiện đang trong giai đoạn phát triển thử nghiệm, chưa được sử dụng chính thức cho các dịch vụ cốt lõi của nhà trường.</p>
+</blockquote>
+<hr>
+<h2 id="package-cài-đặt-và-chạy-dự-án">📦 Cài đặt và Chạy dự án</h2>
+<p>Để thiết lập môi trường và chạy mã nguồn dự án trên máy tính, bạn mở Terminal và thực hiện các câu lệnh sau:</p>
+<pre class=" language-bash"><code class="prism  language-bash"><span class="token function">git</span> clone <span class="token punctuation">[</span>https://github.com/clb-lap-trinh/smartcampus.git<span class="token punctuation">]</span><span class="token punctuation">(</span>https://github.com/clb-lap-trinh/smartcampus.git<span class="token punctuation">)</span>
+<span class="token function">npm</span> <span class="token function">install</span>
+<span class="token function">npm</span> start
+</code></pre>
+
